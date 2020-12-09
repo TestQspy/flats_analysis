@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mine
+data_set_utf16.csv
+data_set_utf32.csv
+data_set_utf8.csv
