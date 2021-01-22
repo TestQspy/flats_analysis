@@ -132,3 +132,5 @@ dmypy.json
 data_set_utf16.csv
 data_set_utf32.csv
 data_set_utf8.csv
+data_set_after_cleaning_with_NaN.csv
+flats_wroclaw_final.csv
